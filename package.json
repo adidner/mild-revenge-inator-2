@@ -4,7 +4,7 @@
   "description": "create to pank others",
   "main": "index.js",
   "scripts": {
-    "test": "npm run test"
+    "test": "cypress open"
   },
   "repository": {
     "type": "git",
