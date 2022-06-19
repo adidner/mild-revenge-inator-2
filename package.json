@@ -1,0 +1,22 @@
+{
+  "name": "mild-revenge-inator-2",
+  "version": "1.0.0",
+  "description": "create to pank others",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adidner/mild-revenge-inator-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adidner/mild-revenge-inator-2/issues"
+  },
+  "homepage": "https://github.com/adidner/mild-revenge-inator-2#readme",
+  "devDependencies": {
+    "cypress": "^10.1.0"
+  }
+}
